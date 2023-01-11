@@ -1,0 +1,1 @@
+*{margin:0}html,body,.main{height:100%}.main{display:flex;flex-direction:column}.main .topbar{height:50px;width:100%;background-color:yellow;position:fixed;left:0;top:0}.main .box{flex:1;background-color:blue}
